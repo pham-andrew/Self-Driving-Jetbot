@@ -22,3 +22,8 @@ Object Retreat - Development of code to retreat or run from specific objects
 - Final Project Presentation Slide Deck [PDF](Team%20PupBot%20Final%20Project%20Presentation.pdf)|[Powerpoint](Team%20PupBot%20Final%20Project%20Presentation.pptx)
 - [Final Project Report (PDF)](Team%20PupBot%20Final%20Project.pdf)
 - [Final Project Demo Video (.mov)](PupBot%20Final%20Project%20Demo.mov)
+
+Dependencies not included in this clone because of size:
+ssd_mobilenet_v2_coco.engine
+best_model.pth
+images in dataset
