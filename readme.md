@@ -30,3 +30,5 @@ ssd_mobilenet_v2_coco.engine
 best_model.pth
 
 images in dataset
+
+jetbot library: https://github.com/NVIDIA-AI-IOT/jetbot
